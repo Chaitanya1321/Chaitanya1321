@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chaitanya1321
+- 👋 Hi, I’m Chaitanya
 - 👀 I’m interested in getting Job , Paid Internship , Freelance open source contribution.
 - 🌱 I’m currently learning AI models , React js Advance framework.
 - 💞️ I’m looking to collaborate on Project , startup projects
