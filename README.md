@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chaitanya
-- 👀 I’m interested in getting Job , Paid Internship , Freelance open source contribution.
-- 🌱 I’m currently learning AI models , React js Advance framework.
+- 👀 I’m interested in Freelance open source contribution and collaborations.
+- 🌱 I’m currently working on AI models , React js Advance framework.
 - 💞️ I’m looking to collaborate on Project , startup projects
 - 📫 How to reach me Ping me on my linkedIn https://www.linkedin.com/in/chaitanyaupadhyay1315/
 
