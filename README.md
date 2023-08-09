@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chaitanya Upadhyay</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitanya1321&label=Profile%20views&color=0e75b6&style=flat" alt="chaitanya1321" /> </p>
+- 🔭 I’m currently working on **E-Commerce Website**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chaitanya1321" alt="chaitanya1321" /></a> </p>
-
-- 💬 Ask me about **React, Next.js, Mongo DB , Java , SpringBoot**
+- 💬 Ask me about **Web Development,React, Next.js, Mongo DB , Java , SpringBoot , MySQL,**
 
 - 📫 How to reach me **chaitanyahanu2001@gmail.com**
 
@@ -15,6 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/chaitanyaupadhyay1315/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chaitanyaupadhyay1315/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/cu1252?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/cu1252?hr_r=1" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/chaitanyahanu2001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/chaitanyahanu2001/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -23,5 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chaitanya1321&show_icons=true&locale=en&layout=compact" alt="chaitanya1321" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaitanya1321&show_icons=true&locale=en" alt="chaitanya1321" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanya1321&" alt="chaitanya1321" /></p>
